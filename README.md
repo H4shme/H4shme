@@ -115,7 +115,7 @@
 
 
 
-<details open> 
+<details> 
   <summary><h2>📊 𝙎𝙩𝙖𝙩𝙨 𝙖𝙣𝙙 𝘼𝙘𝙩𝙞𝙫𝙞𝙩𝙮</h2></summary>
 <h3 align="center">🔥 ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ</h3>
   <p align="center">
