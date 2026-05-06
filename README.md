@@ -34,10 +34,10 @@
 
 
 <details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ 𝑴𝒚 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆 𝑻𝒐𝒐𝒍𝒔</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3>ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ᴍᴀʀᴋᴜᴘ ʟᴀɴɢᴜᴀɢᴇꜱ</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -53,14 +53,14 @@
       <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>ᴅᴀᴛᴀʙᴀꜱᴇꜱ ᴀɴᴅ ᴄʟᴏᴜᴅ ʜᴏꜱᴛɪɴɢ</h3>
 
   <p>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>ꜱᴏꜰᴛᴡᴀʀᴇ ᴀɴᴅ ᴛᴏᴏʟꜱ</h3>
 
   <p>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
@@ -73,7 +73,7 @@
 </details>
 
 <details open>
-  <summary><h2>🏷️ THM Badges</h2></summary>
+  <summary><h2>🏷️ 𝑻𝑯𝑴 𝑩𝒂𝒅𝒈𝒆𝒔</h2></summary>
   <table>
     <tr>
       <td align="center">
@@ -116,21 +116,18 @@
 
 
 <details open> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-<h3 align="center">🔥 Streak Stats</h3>
+  <summary><h2>📊 𝙎𝙩𝙖𝙩𝙨 𝙖𝙣𝙙 𝘼𝙘𝙩𝙞𝙫𝙞𝙩𝙮</h2></summary>
+<h3 align="center">🔥 ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ</h3>
   <p align="center">
     <a>
       <img title="" alt="H4sh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=H4shme&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
-<h3 align="center">💻 GitHub Profile Stats</h3>
+<h3 align="center">💻 ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ ꜱᴛᴀᴛs</h3>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="H4sh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=H4shme&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="H4sh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=H4shme&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   </p>
-  <p align="center">
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+
   <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="H4sh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=H4shme&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </p>
