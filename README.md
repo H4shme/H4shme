@@ -25,8 +25,10 @@
   <p align="left">
         <a href="https://github.com/H4shme/H4shmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=H4shme&repo=H4shmap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt=""></a>
     <a href="https://github.com/H4shme/Network-Mapper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=H4shme&repo=Network-Mapper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt=""></a>
+        <a href="https://github.com/H4shme/Factorial-in-assembly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=H4shme&repo=Factorial-in-assembly&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt=""></a>
     <a href="https://github.com/H4shme/H4shping"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=H4shme&repo=H4shping&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt=""></a>
     <a href="https://github.com/H4shme/Morse-ARDUINO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=H4shme&repo=Morse-ARDUINO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt=""></a>
+            <a href="https://github.com/H4shme/HelloWorld-in-assembly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=H4shme&repo=HelloWorld-in-assembly&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt=""></a>
   </p>
 
   <a href="https://github.com/H4shme?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
