@@ -10,8 +10,6 @@
 <p align="center">
   <a href="https://github.com/H4shme?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Stars on github" src="https://custom-icon-badges.demolab.com/github/stars/H4shme?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/H4shme?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/H4shme?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/H4shme">
     <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=H4shme&style=for-the-badge"/></a>
 </p>
