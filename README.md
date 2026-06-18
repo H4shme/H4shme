@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/H4shme"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=+H4shme+-+French+Cybersec*+Student+;Interested+in+Cybersec*+engineering" alt="Typing SVG" /></a>
+<a href="https://github.com/H4shme"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=+H4shme+-+French+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
