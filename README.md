@@ -45,7 +45,6 @@
 
   <p>
           <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white"></a>
           <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
     <a href="#"><img alt="Lua" src="https://img.shields.io/badge/-Lua-0055FF?logo=Lua&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -65,9 +64,8 @@
   <h3>ᴅᴀᴛᴀʙᴀꜱᴇꜱ ᴀɴᴅ ᴄʟᴏᴜᴅ ʜᴏꜱᴛɪɴɢ</h3>
 
   <p>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+     
   </p>
 
   <h3>ꜱᴏꜰᴛᴡᴀʀᴇ ᴀɴᴅ ᴛᴏᴏʟꜱ</h3>
